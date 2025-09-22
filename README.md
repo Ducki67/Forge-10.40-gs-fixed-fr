@@ -17,7 +17,9 @@ This doesn't mean you **SKID** it and host for yourself without giving credits n
 
 AND 
 - Zombie movement - Spooky
-- Creative Islands - Ender   For all this!!!
+- Creative Islands - Ender           for all this!!!
+
+### Do NOT fork this github or I private it!!
 
 
 ### listed features
