@@ -3,9 +3,9 @@ fr this time its fixed
 [Fixed src from here btw!!](https://github.com/Therealsxlar/ForgeFN-Fixed)
 
 ## reasons why you should stop crying
-- **1** The src code if fixed now so u can compile the dill skidda.
+- **1** The src code if fixed now so u can compile the dll skidda.
 - **2** If you still get an error like detours then fix it by your self i ain't gonna help anymore!
-- **3** Why the heck you want this gs soo bad its notven close to current or early 2023 reboot bru..
+- **3** Why the heck you want this gs soo bad its not even close to current or early 2023 reboot bru..
 - **4*** Just shut up and use semi working creative.   >:)
 
 # Credits
@@ -17,7 +17,9 @@ This doesn't mean you **SKID** it and host for yourself without giving credits n
 
 AND 
 - Zombie movement - Spooky
-- Creative Islands - Ender           for all this!!!
+- Creative Islands - Ender
+
+for all this!!!
 
 ### Do NOT fork this github or I private it!!
 
@@ -45,7 +47,7 @@ this list from the original
 
 
 ## How to build
-bru use gpt or figure it out by ur self
+bru use Chatgpt or figure it out by ur self
 
 Requirements:
 - Visal Studio 2022
