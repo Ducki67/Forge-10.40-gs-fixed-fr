@@ -9,7 +9,7 @@ fr this time its fixed
 - **4*** Just shut up and use semi working creative.   >:)
 
 # Credits
-This doesn't mean you **SKID** it and host for yourself without giving credits no No NO **YOU** ae going to give credits to:
+This doesn't mean you **SKID** it and host for yourself without giving credits no No NO **YOU** are going to give credits to:
 
 - [Milxnor](https://github.com/Milxnor) for src
 - [Therealsxlar](https://github.com/Therealsxlar) for fixed stuff + mcp
